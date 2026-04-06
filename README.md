@@ -1,5 +1,5 @@
-# Free-view-Tiktok
-Free TikTok view automation script via website
+# Web-View-Automation
+view automation script via website
 
 
 # Description
@@ -85,19 +85,21 @@ pip install selenium webdriver-manager
 python script.py
 ```
 
-# Avertissement légal
 
-  Ce script est fourni uniquement à des fins éducatives et de démonstration technique.
-  
-  Toute utilisation visant à :
-  
-  contourner les conditions d’utilisation d’un service,
-  manipuler artificiellement des statistiques,
-  ou exploiter des systèmes tiers de manière abusive,
-  
-  est strictement interdite.
-  
-  L’utilisateur est seul responsable de l’usage qu’il fait de ce code.
+# Avertissement légal / Legal Notice
 
+**Ce projet est publié uniquement à des fins éducatives dans le cadre de la démonstration de techniques d'automatisation web (Selenium, WebDriver).
+  L'auteur interdit expressément toute utilisation visant à :**
+  
+**Contourner les Conditions Générales d'Utilisation de tout service en ligne
+  Manipuler artificiellement des métriques ou statistiques
+  Automatiser des actions sur des systèmes tiers sans leur autorisation explicite
+  Violer toute législation applicable, notamment le Code pénal français (art. 323-1 et suivants) relatif aux atteintes aux systèmes de traitement automatisé de données**
+  
+**Responsabilité :
+  L'auteur du code ne peut être tenu responsable des usages détournés de ce projet. En téléchargeant ou utilisant ce code, l'utilisateur reconnaît en assumer l'entière        responsabilité légale et civile.
+  Ce projet ne fournit, n'héberge, ni ne contrôle aucun service tiers. Il illustre uniquement des mécanismes d'interaction avec des interfaces web.**
+  
+**This software is provided for educational purposes only. Any misuse is strictly prohibited and solely the responsibility of the end user.**
 
 # 🌟 REMEMBER TO GIVE A STARS
