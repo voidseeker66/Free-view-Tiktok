@@ -81,14 +81,12 @@ pip install selenium
 
 ```
 pip install selenium webdriver-manager
-
 ```
 
 # Exécution
 
 ```
 python script.py
-
 ```
 
 # Avertissement légal
