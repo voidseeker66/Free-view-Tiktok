@@ -99,4 +99,5 @@ python script.py
   
   L’utilisateur est seul responsable de l’usage qu’il fait de ce code.
 
-🌟 REMEMBER TO GIVE A STARS
+
+# 🌟 REMEMBER TO GIVE A STARS
