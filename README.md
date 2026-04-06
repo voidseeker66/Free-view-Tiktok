@@ -98,3 +98,5 @@ python script.py
   est strictement interdite.
   
   L’utilisateur est seul responsable de l’usage qu’il fait de ce code.
+
+🌟 REMEMBER TO GIVE A STARS
