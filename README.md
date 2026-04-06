@@ -76,10 +76,6 @@ Le script exécute un cycle automatisé en continu, structuré comme suit :
 # Installation des dépendances
 
 ```
-pip install selenium
-```
-
-```
 pip install selenium webdriver-manager
 ```
 
