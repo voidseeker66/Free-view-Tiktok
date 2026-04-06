@@ -3,88 +3,176 @@
 ================================================================================
 
 COPYRIGHT NOTICE
-
   Copyright (c) 2026 tousdegeyulaa. All rights reserved.
-  This software is proprietary and confidential.
+  This software and its documentation are proprietary and confidential.
+  Unauthorized use, reproduction, or distribution is strictly prohibited.
 
---------------------------------------------------------------------------------
+================================================================================
+SECTION 1 — DEFINITIONS
+================================================================================
 
-LICENSE GRANT
+  "Software" refers to all source code, object code, scripts, documentation,
+  configuration files, and any associated materials contained in this
+  repository.
 
-  This software and all associated documentation, source code, object code,
-  data, and related materials (collectively, the "Software") are the exclusive
-  intellectual property of tousdegeyulaa.
+  "Author" refers to tousdegeyulaa, the sole copyright holder.
 
-  No license, express or implied, is granted to any person or entity to use,
-  copy, modify, distribute, or otherwise deal with this Software without the
-  prior explicit written authorization of the copyright holder.
+  "User" refers to any individual or entity accessing, downloading, viewing,
+  or otherwise interacting with the Software in any form.
 
---------------------------------------------------------------------------------
+================================================================================
+SECTION 2 — LICENSE GRANT
+================================================================================
 
-RESTRICTIONS
+  No license, express or implied, is granted to any User to use, copy, modify,
+  distribute, sublicense, or otherwise exploit the Software without the prior
+  explicit written authorization of the Author.
 
-  The following actions are strictly prohibited without prior written consent:
+  Access to this public repository does not constitute, imply, or grant any
+  right or license of any kind.
 
-  1. Copying, reproducing, or duplicating the Software, in whole or in part.
+================================================================================
+SECTION 3 — RESTRICTIONS
+================================================================================
+
+  The following actions are strictly prohibited without prior written consent
+  from the Author:
+
+  1. Copying, reproducing, or duplicating the Software, in whole or in part,
+     by any means or in any form.
 
   2. Modifying, adapting, translating, or creating derivative works based
-     on the Software.
+     on the Software or any portion thereof.
 
   3. Distributing, publishing, selling, sublicensing, renting, leasing,
-     or transferring the Software or any portion thereof.
+     or transferring the Software or any portion thereof to any third party.
 
-  4. Reverse-engineering, disassembling, decompiling, or attempting to
-     derive the source code of the Software.
+  4. Reverse-engineering, disassembling, decompiling, or attempting by any
+     means to derive the source code or underlying logic of the Software.
 
-  5. Using the Software or any part of it for commercial purposes of any kind.
+  5. Using the Software, directly or indirectly, for any commercial purpose
+     of any kind, including but not limited to SaaS, resale, or monetization.
 
-  6. Removing, altering, or obscuring any proprietary notices, labels,
-     or markings on or within the Software.
+  6. Removing, altering, or obscuring any proprietary notices, copyright
+     labels, or markings on or within the Software.
 
---------------------------------------------------------------------------------
+  7. Using the Software in any manner that violates the Terms of Service,
+     Terms of Use, or any equivalent policy of any third-party platform,
+     website, or online service.
 
-EDUCATIONAL USE
+  8. Using the Software to manipulate, falsify, artificially inflate, or
+     otherwise distort any metrics, statistics, engagement data, or
+     performance indicators on any platform or service.
 
-  This Software is provided solely for personal educational and demonstration
-  purposes. Access to this repository does not constitute permission to use,
-  reproduce, or redistribute the Software in any form. Any use beyond
-  individual, non-commercial study is strictly forbidden.
+  9. Deploying the Software in any automated, scheduled, or continuous
+     execution environment for purposes other than personal educational study.
 
---------------------------------------------------------------------------------
+  10. Using the Software in any way that causes harm, disruption, or undue
+      load to any third-party infrastructure, server, or service.
 
-DISCLAIMER OF WARRANTY
+================================================================================
+SECTION 4 — PERMITTED EDUCATIONAL USE
+================================================================================
 
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE COPYRIGHT
-  HOLDER DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, SECURE, OR
-  UNINTERRUPTED.
+  The Software is made available solely for personal, non-commercial,
+  educational study of web automation techniques using Selenium WebDriver.
 
-  IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT,
-  INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT
-  LIMITED TO LOSS OF DATA, LOSS OF PROFITS, OR BUSINESS INTERRUPTION) ARISING
-  IN ANY WAY OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF
-  ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+  Permitted use is strictly limited to:
+  - Reading and analyzing the source code for learning purposes
+  - Running the Software locally in a controlled, personal environment
+    for technical understanding only
 
---------------------------------------------------------------------------------
+  Any use beyond the above is expressly forbidden.
 
-GOVERNING LAW
+  The Author explicitly disclaims any intent to facilitate, encourage,
+  or enable misuse of any third-party service or platform.
+  The Author does not operate, endorse, or control any third-party service
+  that may be referenced or interacted with by this Software.
 
-  This License shall be governed by and construed in accordance with applicable
-  law. Any dispute arising out of or in connection with this License shall be
-  subject to the exclusive jurisdiction of the competent courts of the
-  copyright holder's domicile, without regard to conflict of law provisions.
+================================================================================
+SECTION 5 — USER RESPONSIBILITY
+================================================================================
 
---------------------------------------------------------------------------------
+  By accessing, downloading, or using this Software in any form, the User
+  unconditionally acknowledges and agrees that:
 
-ENFORCEMENT
+  - The User assumes full and sole legal, civil, and criminal responsibility
+    for any use made of this Software.
 
-  Any unauthorized use, reproduction, or distribution of this Software, or
-  any portion of it, may result in severe civil and criminal penalties, and
-  will be prosecuted to the maximum extent possible under applicable law.
+  - The Author cannot be held liable for any direct, indirect, incidental,
+    consequential, or punitive damages resulting from the use or misuse
+    of this Software.
 
---------------------------------------------------------------------------------
+  - The User is solely responsible for ensuring that their use of this
+    Software complies with all applicable laws and regulations in their
+    jurisdiction.
 
-  (c) 2026 tousdegeyulaa -- All rights reserved.
+================================================================================
+SECTION 6 — DISCLAIMER OF WARRANTY
+================================================================================
 
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+  OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+  THE AUTHOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, SECURE,
+  UNINTERRUPTED, OR FREE OF HARMFUL COMPONENTS.
+
+  THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING OUT OF
+  OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF
+  ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+================================================================================
+SECTION 7 — GOVERNING LAW & JURISDICTION
+================================================================================
+
+  This License shall be governed by and construed in accordance with the
+  laws of France, including but not limited to:
+
+  - Code pénal, articles 323-1 to 323-8
+    (atteintes aux systèmes de traitement automatisé de données — STAD)
+  - Loi n°78-17 du 6 janvier 1978 relative à l'informatique et aux libertés
+  - Loi n°2004-575 du 21 juin 2004 pour la confiance dans l'économie
+    numérique (LCEN)
+  - Directive européenne 2001/29/CE sur le droit d'auteur
+  - Règlement (UE) 2016/679 — RGPD
+
+  Any dispute arising out of or in connection with this License shall be
+  subject to the exclusive jurisdiction of the competent courts of France,
+  without regard to conflict of law provisions.
+
+================================================================================
+SECTION 8 — ENFORCEMENT
+================================================================================
+
+  Any unauthorized use, reproduction, modification, or distribution of this
+  Software, or any portion thereof, constitutes a violation of applicable
+  intellectual property law and may result in:
+
+  - Severe civil liability and damages
+  - Criminal prosecution under applicable law
+  - Injunctive relief without prior notice
+
+  The Author reserves all rights to pursue enforcement to the maximum extent
+  permitted by applicable law.
+
+================================================================================
+SECTION 9 — SEVERABILITY
+================================================================================
+
+  If any provision of this License is held invalid, illegal, or unenforceable
+  under applicable law, the remaining provisions shall continue in full force
+  and effect.
+
+================================================================================
+SECTION 10 — ENTIRE AGREEMENT
+================================================================================
+
+  This License constitutes the entire agreement between the Author and the
+  User with respect to the Software and supersedes all prior or contemporaneous
+  understandings, agreements, or representations.
+
+================================================================================
+  (c) 2026 tousdegeyulaa — All rights reserved.
+  Unauthorized use is strictly prohibited and will be prosecuted.
 ================================================================================
